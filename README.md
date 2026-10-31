@@ -141,7 +141,7 @@ Decisões de modelagem:
 
 - [x] Fase 0 — Ambiente e repositório
 - [x] Fase 1 — Planejamento (validação, telas, banco de dados e rotas)
-- [ ] Fase 2 — API e banco de dados
+- [x] Fase 2 — API e banco de dados
 - [ ] Fase 3 — Login e segurança
 - [ ] Fase 4 — Telas
 - [ ] Fase 5 — Dashboard e salário inteligente
